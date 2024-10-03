@@ -1,5 +1,5 @@
 # Object-Aware NIR-to-Visible Translation
-We provide the Pytorch implementation of "Object-Aware NIR-to-Visible Translation"
+We provide the Pytorch implementation of ["Object-Aware NIR-to-Visible Translation"](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3338_ECCV_2024_paper.php), ECCV 2024, by Yunyi Gao, Lin Gu, Qiankun Liu and Ying Fu.
 
 ## Abstract
 While near-infrared (NIR) imaging technology is essential for assisted driving and safety monitoring systems, its monochromatic nature and detail limitations hinder its broader application, which prompts the development of NIR-to-visible translation tasks.
