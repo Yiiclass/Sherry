@@ -161,6 +161,23 @@ All the methods have been retrained on both the NIR and RGB domains of the EPFL/
 
 ## Citation
 
+If you find this work useful for your research, please cite:
+
+```
+@InProceedings{10.1007/978-3-031-73337-6_6,
+author="Gao, Yunyi
+and Gu, Lin
+and Liu, Qiankun
+and Fu, Ying",
+title="Object-Aware NIR-to-Visible Translation",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="93--109",
+isbn="978-3-031-73337-6"
+}
+```
 
 ## contact
 If you have any problems, please feel free to contact me at yiiclass@qq.com
