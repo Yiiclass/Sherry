@@ -169,7 +169,7 @@ If you find this work useful for your research, please cite:
   author={Gao, Yunyi and Gu, Lin and Liu, Qiankun and Fu, Ying},
   booktitle={European Conference on Computer Vision},
   pages={93--109},
-  year={2025},
+  year={2024},
   organization={Springer}
 }
 ```
